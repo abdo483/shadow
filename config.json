@@ -1,0 +1,6 @@
+{
+  "token": "Nzc0NjM1MzQ3NTQzNzE5OTM2.X6apYg.f7fLpc04cSfKa-Z2xupA1M-5SNQ",
+  "prefix": "$",
+  "mongoPath": "mongodb+srv://CommandHandler:DraculaIs2009@cluster0.lyhmb.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "redisPath": "redis path here"
+}
